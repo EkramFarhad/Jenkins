@@ -7,6 +7,7 @@ public class Main {
             Thread.sleep(2000);
 
             System.out.println("not hello");
+            System.out.println(" hello hello hello");
 
         }
     }
